@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 723e1dd2e165c5a479244f20652b8a09, type: 3}
+  m_Name: Vojin
+  m_EditorClassIdentifier: 
+  class_: 1
+  health: 100
+  maxHealth: 100
+  perception: 10
+  agility: 6
+  speed: 5
+  defaultWeapon: {fileID: 11400000, guid: a6dee15199cfa7643aa3c56c369ebc7e, type: 2}
+  defaultArmor: {fileID: 11400000, guid: e8d0dca1c9d91094b96fb95e81f4bde2, type: 2}
+  currentWeapon: {fileID: 11400000, guid: a6dee15199cfa7643aa3c56c369ebc7e, type: 2}
+  currentArmor: {fileID: 11400000, guid: e8d0dca1c9d91094b96fb95e81f4bde2, type: 2}
+  currentArmorValue: 7
+  level: 1
+  round: 1
+  sprite: {fileID: 222386890266956578, guid: dadbc58376e74504599b999f170b089f, type: 3}
+  specialAttackName: "Gran\xE1t"
+  specialAbilityName: "Bolestiv\xFD Z\xE1sah"

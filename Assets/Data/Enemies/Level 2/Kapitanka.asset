@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48be53c67fa844246b012562c6af8662, type: 3}
+  m_Name: Kapitanka
+  m_EditorClassIdentifier: 
+  id: 2
+  name: "Kapit\xE1nka"
+  health: 25
+  perception: 22
+  agility: 6
+  speed: 7
+  minDamage: 10
+  maxDamage: 16
+  minArmor: 0
+  maxArmor: 4
+  level: 2
+  distance: 0
+  playerChanceToHit: 0
+  chanceToHitPlayer: 0
+  melee: 0
+  enemySprite: {fileID: 3823453848590471059, guid: b374c1cca99f2834e95a527d346fbba1, type: 3}

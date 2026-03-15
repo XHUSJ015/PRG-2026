@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48be53c67fa844246b012562c6af8662, type: 3}
+  m_Name: "Pl\xEDs\u0148ovirobakterie"
+  m_EditorClassIdentifier: 
+  id: 3
+  name: "Pl\xEDs\u0148ovirobakterie"
+  health: 20
+  perception: 10
+  agility: 2
+  speed: 10
+  minDamage: 18
+  maxDamage: 26
+  minArmor: 0
+  maxArmor: 2
+  level: 2
+  distance: 0
+  playerChanceToHit: 0
+  chanceToHitPlayer: 0
+  melee: 1
+  enemySprite: {fileID: -5959990651850497466, guid: bd0ab13e3dce45b4aa59de9ee37b5345, type: 3}

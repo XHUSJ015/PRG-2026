@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 723e1dd2e165c5a479244f20652b8a09, type: 3}
+  m_Name: Kobra
+  m_EditorClassIdentifier: 
+  class_: 2
+  health: -3
+  maxHealth: 90
+  perception: 16
+  agility: 12
+  speed: 5
+  defaultWeapon: {fileID: 11400000, guid: a14b930dc05706a408009981be2e0223, type: 2}
+  defaultArmor: {fileID: 11400000, guid: 0107d91143cfb0d4f91f485c6a656574, type: 2}
+  currentWeapon: {fileID: 11400000, guid: a14b930dc05706a408009981be2e0223, type: 2}
+  currentArmor: {fileID: 11400000, guid: 0107d91143cfb0d4f91f485c6a656574, type: 2}
+  currentArmorValue: 1
+  level: 1
+  round: 1
+  sprite: {fileID: -4142203269210619560, guid: 87e3f02cb1051b548bcfcab52038f861, type: 3}
+  specialAttackName: "Nav\xE1d\u011Bn\xE1 St\u0159ela"
+  specialAbilityName: "Taktick\xFD Kotoul"

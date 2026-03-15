@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48be53c67fa844246b012562c6af8662, type: 3}
+  m_Name: 20zlychlabuti
+  m_EditorClassIdentifier: 
+  id: 0
+  name: "20 Zl\xFDch Labut\xED"
+  health: 30
+  perception: 8
+  agility: 12
+  speed: 10
+  minDamage: 9
+  maxDamage: 12
+  minArmor: 2
+  maxArmor: 4
+  level: 2
+  distance: 0
+  playerChanceToHit: 0
+  chanceToHitPlayer: 0
+  melee: 1
+  enemySprite: {fileID: 8536121232135424057, guid: 941967380f2d3864fb0cf5466e395ece, type: 3}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48be53c67fa844246b012562c6af8662, type: 3}
+  m_Name: "Rybomu\u017E"
+  m_EditorClassIdentifier: 
+  id: 1
+  name: "Rybomu\u017E"
+  health: 60
+  perception: 8
+  agility: 4
+  speed: 5
+  minDamage: 9
+  maxDamage: 10
+  minArmor: 2
+  maxArmor: 6
+  level: 2
+  distance: 0
+  playerChanceToHit: 0
+  chanceToHitPlayer: 0
+  melee: 1
+  enemySprite: {fileID: 8655949871385566086, guid: f1c74f14563c07a49a78892abba1f388, type: 3}

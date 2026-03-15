@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48be53c67fa844246b012562c6af8662, type: 3}
+  m_Name: BanditazFolimanky
+  m_EditorClassIdentifier: 
+  id: 2
+  name: Bandita z Folimanky
+  health: 30
+  perception: 20
+  agility: 4
+  speed: 5
+  minDamage: 7
+  maxDamage: 12
+  minArmor: 0
+  maxArmor: 2
+  level: 1
+  distance: 0
+  playerChanceToHit: 0
+  chanceToHitPlayer: 0
+  melee: 0
+  enemySprite: {fileID: -5968623610509027889, guid: 022d40827170e1640bd497f6d9f1a5ae, type: 3}
