@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae5caf640b9fc8f418849d53f47136e7, type: 3}
   m_Name: "D\u011Bdova Vzduchovka"
   m_EditorClassIdentifier: 
-  minDamage: 80
-  maxDamage: 120
-  accuracy: 80
+  minDamage: 8
+  maxDamage: 12
+  accuracy: 8
   level: 0
   description: "Po\u0161kozen\xED: 10-10 P\u0159esnost: 8"
